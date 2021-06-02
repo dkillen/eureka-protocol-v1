@@ -12,4 +12,4 @@ Eureka's smart contracts allow a hodler to deposit their tokens in a timelocked 
 Eureka's smart contracts also provide a vault in which tokens can be deposited to be staked in a liquidity pool with pool rewards harvested after a specified period of time has elapsed or a specified value of rewards have accumulated. Harvested rewards are returned to the vault for distribution to one or more accounts in either a predetermined ratio or a ratio set at the time of distribution.
 
 ## License
-Eureka is under the [GPL v3 license](https://github.com/dkillen/eureka-v1/blob/main/LICENSE.md)
+Eureka is licensed under the [GNU General Public License v3.0.](https://www.gnu.org/licenses/gpl-3.0.html)
